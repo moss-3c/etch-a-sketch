@@ -7,5 +7,4 @@ container {
 div {
     flex: 1 0 calc(100% / 16); 
     aspect-ratio: 1 / 1 ;
-    
 }
